@@ -5,59 +5,51 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>GLOSSBOSS Quicklinks</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          GLOSSBOSS Links
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+          <a href="https://glossboss-shop.de" className={styles.card}>
+            <h3>GLOSSBOSS Shop &rarr;</h3>
+            <p>Unser Online Shop (Nanolex, Sonax, Menzerna und viele mehr)</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+          <a href="https://www.survio.com/survey/d/S3M9O2L7W1M8Q3B7B" className={styles.card}>
+            <h3>Umfrage zum GLOSSBOSS Shop &rarr;</h3>
+            <p>Nehme dir 2 Minuten Zeit um uns Feedback zum GLOSSBOSS Shop zu geben!</p>
           </a>
 
-          <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
-            className={styles.card}
-          >
-            <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+          
+          <a href="https://www.youtube.com/watch?v=00yr1MqnbcE" className={styles.card}>
+          <h3>Aktuelles Video &rarr;</h3>
+          <p>Max Protect UGC Anleitung | Scheibenversiegelung richtig auftragen | GLOSSBOSS</p>
           </a>
 
-          <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-          >
-            <h3>Deploy &rarr;</h3>
-            <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
-          </a>
+          <a href="https://live.glossboss.de" className={styles.card}>
+            <h3>Livestream &rarr;</h3>
+            <p>Unser Aktueller Livestream auf Youtube</p>
+            </a>
+
         </div>
       </main>
 
       <footer className={styles.footer}>
         <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://glossboss-shop.de"
           target="_blank"
           rel="noopener noreferrer"
         >
           Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
+          <img src="https://logo-gradient-png.ntwcklng.now.sh/Gradient-Cut-small.png" alt="Vercel Logo" className={styles.logo} />
         </a>
       </footer>
     </div>
