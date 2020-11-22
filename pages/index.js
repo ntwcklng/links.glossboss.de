@@ -29,9 +29,9 @@ export default function Home() {
           </a>
 
           
-          <a href="https://www.youtube.com/watch?v=00yr1MqnbcE" className={styles.card}>
+          <a href="https://www.youtube.com/watch?v=fUqAdbOtNjk" className={styles.card}>
           <h3>Aktuelles Video &rarr;</h3>
-          <p>Max Protect UGC Anleitung | Scheibenversiegelung richtig auftragen | GLOSSBOSS</p>
+          <p>VW ID3 Detailing - Qualitätssicherung von VW übersieht heftige Schleifspuren | GLOSSBOSS</p>
           </a>
 
           <a href="https://live.glossboss.de" className={styles.card}>
