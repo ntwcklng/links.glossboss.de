@@ -23,20 +23,19 @@ export default function Home() {
             <p>Unser Online Shop (Nanolex, Sonax, Menzerna und viele mehr)</p>
           </a>
 
-          <a href="https://www.survio.com/survey/d/S3M9O2L7W1M8Q3B7B" className={styles.card}>
-            <h3>Umfrage zum GLOSSBOSS Shop &rarr;</h3>
-            <p>Nehme dir 2 Minuten Zeit um uns Feedback zum GLOSSBOSS Shop zu geben!</p>
+          <a href="https://ad.glossboss.de/#shoppen" className={styles.card}>
+            <h3>Termin buchen GLOSSBOSS Shop &rarr;</h3>
+            <p>Buche hier einen Termin um vor Ort in 46284 Dorsten zu shoppen!</p>
           </a>
-
           
           <a href="https://www.youtube.com/watch?v=fUqAdbOtNjk" className={styles.card}>
           <h3>Aktuelles Video &rarr;</h3>
-          <p>VW ID3 Detailing - Qualitätssicherung von VW übersieht heftige Schleifspuren | GLOSSBOSS</p>
+          <p>Hier ist unser können gefragt 🚀 Tiefe Kratzer am Porsche 991.2 entfernen 🔥 SONAX CC EVO GLOSSBOSS</p>
           </a>
 
-          <a href="https://live.glossboss.de" className={styles.card}>
-            <h3>Livestream &rarr;</h3>
-            <p>Unser Aktueller Livestream auf Youtube</p>
+          <a href="https://glossboss.de/impressum" className={styles.card}>
+            <h3>Impressum</h3>
+            <p></p>
             </a>
 
         </div>
@@ -49,7 +48,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           Powered by{' '}
-          <img src="https://logo-gradient-png.ntwcklng.now.sh/Gradient-Cut-small.png" alt="Vercel Logo" className={styles.logo} />
+          <img src="https://logo-gradient-png.ntwcklng.now.sh/Gradient-Cut-small.png" alt="GLOSSBOSS Logo" className={styles.logo} />
         </a>
       </footer>
     </div>
