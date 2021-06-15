@@ -18,7 +18,11 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://glossboss-shop.de" className={styles.card}>
+          <a href="https://glossboss-shop.de/Sparsets__Aktueller-Deal?ref=lgb" className={styles.card}>
+            <h3>Aktuelles Angebot (15.06.2021) &rarr;</h3>
+            <p>Kaufe 4 bzw. 6 Polierpads und bekomme 250ml Politur <strong>gratis</strong> dazu</p>
+          </a>
+          <a href="https://glossboss-shop.de?ref=lgb" className={styles.card}>
             <h3>GLOSSBOSS Shop &rarr;</h3>
             <p>Unser Online Shop (Nanolex, Sonax, Menzerna und viele mehr)</p>
           </a>
