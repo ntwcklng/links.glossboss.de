@@ -13,10 +13,6 @@ export default function Home() {
         <h1 className={styles.title}>
           GLOSSBOSS Quicklinks
         </h1>
-
-        <p className={styles.description}>
-        </p>
-
         <div className={styles.grid}>
           <a href="https://glossboss-shop.de/Sparsets__Aktueller-Deal?ref=lgb" className={styles.card}>
             <h3>Aktuelles Angebot (15.06.2021) &rarr;</h3>
@@ -32,9 +28,9 @@ export default function Home() {
             <p>Buche hier einen Termin um vor Ort in 46284 Dorsten zu shoppen!</p>
           </a>
           
-          <a href="https://www.youtube.com/watch?v=fUqAdbOtNjk" className={styles.card}>
+          <a href="https://www.youtube.com/watch?v=taMAIHVvpc8" className={styles.card}>
           <h3>Aktuelles Video &rarr;</h3>
-          <p>Hier ist unser können gefragt 🚀 Tiefe Kratzer am Porsche 991.2 entfernen 🔥 SONAX CC EVO GLOSSBOSS</p>
+          <p>GOLF 8 Detailing 🚀 SONAX GEWINNSPIEL 🔥 GLOSSBOSS</p>
           </a>
 
           <a href="https://glossboss.de/impressum" className={styles.card}>
@@ -51,7 +47,6 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
           <img src="https://logo-gradient-png.ntwcklng.now.sh/Gradient-Cut-small.png" alt="GLOSSBOSS Logo" className={styles.logo} />
         </a>
       </footer>
