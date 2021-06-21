@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
         <div className={styles.grid}>
           <a href="https://glossboss-shop.de/Sparsets__Aktueller-Deal?ref=lgb" className={styles.card}>
-            <h3>Aktuelles Angebot (15.06.2021) &rarr;</h3>
+            <h3>Aktuelles Angebot (21.06.2021) &rarr;</h3>
             <p>Kaufe 4 bzw. 6 Polierpads und bekomme 250ml Politur <strong>gratis</strong> dazu</p>
           </a>
           <a href="https://glossboss-shop.de?ref=lgb" className={styles.card}>
@@ -23,14 +23,19 @@ export default function Home() {
             <p>Unser Online Shop (Nanolex, Sonax, Menzerna und viele mehr)</p>
           </a>
 
+          <a href="https://detailing.glossboss.de/nanolex" className={styles.card}>
+            <h3>Nanolex Zertifizierung durch GLOSSBOSS &rarr;</h3>
+            <p>Du möchtest ein Nanolex Approved Detailer werden?</p>
+          </a>
+
           <a href="https://ad.glossboss.de/#shoppen" className={styles.card}>
             <h3>Termin buchen GLOSSBOSS Shop &rarr;</h3>
             <p>Buche hier einen Termin um vor Ort in 46284 Dorsten zu shoppen!</p>
           </a>
           
-          <a href="https://www.youtube.com/watch?v=taMAIHVvpc8" className={styles.card}>
+          <a href="https://www.youtube.com/watch?v=qwFv4gbCj1s" className={styles.card}>
           <h3>Aktuelles Video &rarr;</h3>
-          <p>GOLF 8 Detailing 🚀 SONAX GEWINNSPIEL 🔥 GLOSSBOSS</p>
+          <p>Tesla Model 3 | Lack, Felgen und Glas langfristig versiegelt | GLOSSBOSS</p>
           </a>
 
           <a href="https://glossboss.de/impressum" className={styles.card}>
