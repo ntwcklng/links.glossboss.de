@@ -14,10 +14,16 @@ export default function Home() {
           GLOSSBOSS Quicklinks
         </h1>
         <div className={styles.grid}>
-          <a href="https://glossboss-shop.de/Sparsets__Aktueller-Deal?ref=lgb" className={styles.card}>
-            <h3>Aktuelles Angebot (21.06.2021) &rarr;</h3>
-            <p>Kaufe 4 bzw. 6 Polierpads und bekomme 250ml Politur <strong>gratis</strong> dazu</p>
+          <a href="https://glossboss-shop.de/Workshop-Goslar-492021" className={styles.card}>
+            <h3>Tagesworkshop in Goslar (04.09.2021) &rarr;</h3>
+            <p>Buche hier ein Ticket zum Workshop am 04.09.2021 in Goslar</p>
           </a>
+
+          <a href="https://glossboss-shop.de/Workshop-Berlin-2310-und-2410" className={styles.card}>
+            <h3>Tagesworkshop in Berlin (23.10.2021 / 24.10.2021) &rarr;</h3>
+            <p>Buche hier ein Ticket zum Workshop am 23.10.2021 oder 24.10.2021 in Berlin</p>
+          </a>
+
           <a href="https://glossboss-shop.de?ref=lgb" className={styles.card}>
             <h3>GLOSSBOSS Shop &rarr;</h3>
             <p>Unser Online Shop (Nanolex, Sonax, Menzerna und viele mehr)</p>
