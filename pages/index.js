@@ -14,19 +14,19 @@ export default function Home() {
           GLOSSBOSS Quicklinks
         </h1>
         <div className={styles.grid}>
-          <a href="https://glossboss-shop.de/Nanolex-Ultra-Cut-Polish-Schleifpolitur-1000ml?ref=lgb" className={styles.card}>
-            <h3>Gewinne das Lila Ticket im Wert von 1200€ &rarr;</h3>
-            <p>1 Liter Ultra Cut Polish kaufen und automatisch an der Verlosung teilnehmen</p>
+          <a href="https://glossboss-shop.de/Workshop-Dorsten-31102021?ref=lgb" className={styles.card}>
+            <h3>Tagesworkshop in Dorsten (31.10.2021) &rarr;</h3>
+            <p>Buche hier ein Ticket zum Workshop am 31.10.2021 in Dorsten</p>
+          </a>
+
+          <a href="https://glossboss-shop.de/GLOSSBOSS-Crewneck-Pullover?ref=lgb" className={styles.card}>
+            <h3>GLOSSBOSS Crewneck Pullover</h3>
+            <p>Die kalte Jahreszeit ist da - gönne dir den GLOSSBOSS Crewneck Pullover</p>
           </a>
 
           <a href="https://glossboss-shop.de/Coast-HP7R-Taschenlampe-Entfetter?ref=lgb" className={styles.card}>
             <h3>COAST LED Taschenlampe (Set) mit Entfetter &rarr;</h3>
             <p>Kaufe unsere neue Coast LED Taschenlampe + Entfetter im Spar-Bundle</p>
-          </a>
-
-          <a href="https://glossboss-shop.de/Workshop-Berlin-2310-und-2410?ref=lgb" className={styles.card}>
-            <h3>Tagesworkshop in Berlin (23.10.2021 / 24.10.2021) &rarr;</h3>
-            <p>Buche hier ein Ticket zum Workshop am 23.10.2021 oder 24.10.2021 in Berlin</p>
           </a>
 
           <a href="https://glossboss-shop.de?ref=lgb" className={styles.card}>
