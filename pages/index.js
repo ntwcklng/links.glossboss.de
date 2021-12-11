@@ -14,19 +14,14 @@ export default function Home() {
           GLOSSBOSS Quicklinks
         </h1>
         <div className={styles.grid}>
-          <a href="https://glossboss-shop.de/Workshop-Dorsten-31102021?ref=lgb" className={styles.card}>
-            <h3>Tagesworkshop in Dorsten (31.10.2021) &rarr;</h3>
-            <p>Buche hier ein Ticket zum Workshop am 31.10.2021 in Dorsten</p>
+          <a href="https://glossboss-shop.de/Labocosmetica?ref=lgb" className={styles.card}>
+            <h3>Labocosmetica Deutschland &rarr;</h3>
+            <p>Wir sind <strong>offizieller</strong> Labocosmetica Händler - schau mal rein :)</p>
           </a>
 
           <a href="https://glossboss-shop.de/GLOSSBOSS-Crewneck-Pullover?ref=lgb" className={styles.card}>
             <h3>GLOSSBOSS Crewneck Pullover</h3>
             <p>Die kalte Jahreszeit ist da - gönne dir den GLOSSBOSS Crewneck Pullover</p>
-          </a>
-
-          <a href="https://glossboss-shop.de/Coast-HP7R-Taschenlampe-Entfetter?ref=lgb" className={styles.card}>
-            <h3>COAST LED Taschenlampe (Set) mit Entfetter &rarr;</h3>
-            <p>Kaufe unsere neue Coast LED Taschenlampe + Entfetter im Spar-Bundle</p>
           </a>
 
           <a href="https://glossboss-shop.de?ref=lgb" className={styles.card}>
@@ -44,9 +39,9 @@ export default function Home() {
             <p>Buche hier einen Termin um vor Ort in 46284 Dorsten zu shoppen!</p>
           </a>
           
-          <a href="https://www.youtube.com/watch?v=qwFv4gbCj1s" className={styles.card}>
+          <a href="https://www.youtube.com/watch?v=4aJY30Ybz-4" className={styles.card}>
           <h3>Aktuelles Video &rarr;</h3>
-          <p>Tesla Model 3 | Lack, Felgen und Glas langfristig versiegelt | GLOSSBOSS</p>
+          <p>991.2 Turbo S Exterior & Interior Detailing | Labocosmetica #SAM + #HPC</p>
           </a>
 
           <a href="https://glossboss.de/impressum" className={styles.card}>
